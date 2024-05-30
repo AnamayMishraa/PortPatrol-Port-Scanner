@@ -15,7 +15,7 @@ A simple Python-based port scanner that allows users to scan specific ports on a
 - Python 3.x
 
 ## Installation
-
+- ### CLI Version
 1. Clone the repository:
     ```sh
     git clone https://github.com/AnamayMishraa/port-scanner
@@ -24,6 +24,10 @@ A simple Python-based port scanner that allows users to scan specific ports on a
     ```sh
     cd port-scanner
     ```
+- ### EXE Version
+  - Extract the file `portscanner.rar` using winrar.
+  - Naviigate to `dist` folder.
+  - Run `main.exe` file...
 
 ## Usage
 
