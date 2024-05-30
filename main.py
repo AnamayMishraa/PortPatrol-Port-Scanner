@@ -30,5 +30,7 @@ def main():
     for port in ports:
         portScanner(host, port)
 
+    input("Press Enter to close...")
+
 if __name__ == "__main__":
     main()
