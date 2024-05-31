@@ -1,4 +1,4 @@
-# Port Scanner
+# PortPatrol:Port Scanner
 
 #### Note: This tool is intended for educational purposes only. Please ensure you have permission before scanning any network or device.
 A simple Python-based port scanner that allows users to scan specific ports on a given host or automatically scan common ports if none are specified.
